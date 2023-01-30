@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tasks/shoppers.dart';
+import 'shoppers.dart';
 import 'detail_screen.dart';
 import 'login.dart';
 import 'login2.dart';
